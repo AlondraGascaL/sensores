@@ -1,0 +1,31 @@
+.App {
+  display: grid;
+  width: 100vw;
+  margin-block-start: 20px;
+  height: 30vh;
+  align-items: center;
+  justify-items: center;
+}
+.button {
+  width: 100px;
+  height: 40px;
+  margin: 10px;
+  background: none;
+
+  border: solid 1px #2235ba;
+  color: #2235ba;
+  font-size: 15px;
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.bar {
+  background: #2235ba;
+  height: 20px;
+}
+
+.counter {
+  font-weight: bold;
+  color: #2235ba;
+}
